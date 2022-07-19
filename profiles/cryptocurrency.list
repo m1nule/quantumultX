@@ -1,189 +1,189 @@
 # CEFI
-HOST-SUFFIX,aex.com,Cryptocurrency
-HOST-SUFFIX,bibox.com,Cryptocurrency
-HOST-SUFFIX,binance.cc,Cryptocurrency
-HOST-SUFFIX,binance.com,Cryptocurrency
-HOST-SUFFIX,binance.cloud,Cryptocurrency
-HOST-SUFFIX,bntrace.com,Cryptocurrency
-HOST-SUFFIX,binancefuture.com,Cryptocurrency
-HOST-SUFFIX,bnappzh.com,Cryptocurrency
-HOST-SUFFIX,bnbstatic.com,Cryptocurrency
-HOST-SUFFIX,binance.im,Cryptocurrency
-HOST-SUFFIX,binance.me,Cryptocurrency
-HOST-SUFFIX,bitcointalk.org,Cryptocurrency
-HOST-SUFFIX,bitfinex.com,Cryptocurrency
-HOST-SUFFIX,bitmex.com,Cryptocurrency
-HOST-SUFFIX,ftx.com,Cryptocurrency
-HOST-SUFFIX,gate.io,Cryptocurrency
-HOST-SUFFIX,huobi.com,Cryptocurrency
-HOST-SUFFIX,huobi.li,Cryptocurrency
-HOST-SUFFIX,huobi.vc,Cryptocurrency
-HOST-SUFFIX,huobi.ws,Cryptocurrency
-HOST-SUFFIX,huobi.ae,Cryptocurrency
-HOST-SUFFIX,huobi.bo,Cryptocurrency
-HOST-SUFFIX,huobi.bs,Cryptocurrency
-HOST-SUFFIX,huobi.do,Cryptocurrency
-HOST-SUFFIX,huobi.sk,Cryptocurrency
-HOST-SUFFIX,huobi.is,Cryptocurrency
-HOST-SUFFIX,okex.com,Cryptocurrency
-HOST-SUFFIX,sushi.com,Cryptocurrency
-HOST-SUFFIX,uniswap.org,Cryptocurrency
-HOST-SUFFIX,zb.com,Cryptocurrency
-HOST-SUFFIX,huobiasia.club,Cryptocurrency
-HOST-SUFFIX,huobiasia.vip,Cryptocurrency
-HOST-SUFFIX,xfilecache.com,Cryptocurrency
-HOST-SUFFIX,woodpeckerlog.com,Cryptocurrency
-HOST-SUFFIX,bitvj.com,Cryptocurrency
-HOST-SUFFIX,bitvk.com,Cryptocurrency
-HOST-SUFFIX,bitderiv.com,Cryptocurrency
-HOST-SUFFIX,hbabit.com,Cryptocurrency
-HOST-SUFFIX,pexpay.com,Cryptocurrency
+HOST-SUFFIX,aex.com,PROXY
+HOST-SUFFIX,bibox.com,PROXY
+HOST-SUFFIX,binance.cc,PROXY
+HOST-SUFFIX,binance.com,PROXY
+HOST-SUFFIX,binance.cloud,PROXY
+HOST-SUFFIX,bntrace.com,PROXY
+HOST-SUFFIX,binancefuture.com,PROXY
+HOST-SUFFIX,bnappzh.com,PROXY
+HOST-SUFFIX,bnbstatic.com,PROXY
+HOST-SUFFIX,binance.im,PROXY
+HOST-SUFFIX,binance.me,PROXY
+HOST-SUFFIX,bitcointalk.org,PROXY
+HOST-SUFFIX,bitfinex.com,PROXY
+HOST-SUFFIX,bitmex.com,PROXY
+HOST-SUFFIX,ftx.com,PROXY
+HOST-SUFFIX,gate.io,PROXY
+HOST-SUFFIX,huobi.com,PROXY
+HOST-SUFFIX,huobi.li,PROXY
+HOST-SUFFIX,huobi.vc,PROXY
+HOST-SUFFIX,huobi.ws,PROXY
+HOST-SUFFIX,huobi.ae,PROXY
+HOST-SUFFIX,huobi.bo,PROXY
+HOST-SUFFIX,huobi.bs,PROXY
+HOST-SUFFIX,huobi.do,PROXY
+HOST-SUFFIX,huobi.sk,PROXY
+HOST-SUFFIX,huobi.is,PROXY
+HOST-SUFFIX,okex.com,PROXY
+HOST-SUFFIX,sushi.com,PROXY
+HOST-SUFFIX,uniswap.org,PROXY
+HOST-SUFFIX,zb.com,PROXY
+HOST-SUFFIX,huobiasia.club,PROXY
+HOST-SUFFIX,huobiasia.vip,PROXY
+HOST-SUFFIX,xfilecache.com,PROXY
+HOST-SUFFIX,woodpeckerlog.com,PROXY
+HOST-SUFFIX,bitvj.com,PROXY
+HOST-SUFFIX,bitvk.com,PROXY
+HOST-SUFFIX,bitderiv.com,PROXY
+HOST-SUFFIX,hbabit.com,PROXY
+HOST-SUFFIX,pexpay.com,PROXY
 
 # Defi
-HOST-SUFFIX,mdex.com,Cryptocurrency
-HOST-SUFFIX,mdex.me,Cryptocurrency
-HOST-SUFFIX,mdex.co,Cryptocurrency
-HOST-SUFFIX,mdex.cc,Cryptocurrency
-HOST-SUFFIX,coinwind.com,Cryptocurrency
-HOST-SUFFIX,coinwind.pro,Cryptocurrency
-HOST-SUFFIX,sun.io,Cryptocurrency
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,depth.fi,Cryptocurrency
-HOST-SUFFIX,hswap.com,Cryptocurrency
-HOST-SUFFIX,coin.top,Cryptocurrency
-HOST-SUFFIX,westarter.org,Cryptocurrency
+HOST-SUFFIX,mdex.com,PROXY
+HOST-SUFFIX,mdex.me,PROXY
+HOST-SUFFIX,mdex.co,PROXY
+HOST-SUFFIX,mdex.cc,PROXY
+HOST-SUFFIX,coinwind.com,PROXY
+HOST-SUFFIX,coinwind.pro,PROXY
+HOST-SUFFIX,sun.io,PROXY
+HOST-SUFFIX,justswap.io,PROXY
+HOST-SUFFIX,depth.fi,PROXY
+HOST-SUFFIX,hswap.com,PROXY
+HOST-SUFFIX,coin.top,PROXY
+HOST-SUFFIX,westarter.org,PROXY
 
 # Wallet
-HOST-SUFFIX,hbwallet.net,Cryptocurrency
-HOST-SUFFIX,mytokenpocket.vip,Cryptocurrency
-HOST-SUFFIX,tokenpocket.pro,Cryptocurrency
-HOST-SUFFIX,tronlink.org,Cryptocurrency
-HOST-SUFFIX,hbwalletapi.net,Cryptocurrency
-HOST-SUFFIX,quickwallet.io,Cryptocurrency
-HOST-SUFFIX,metamask.io,Cryptocurrency
+HOST-SUFFIX,hbwallet.net,PROXY
+HOST-SUFFIX,mytokenpocket.vip,PROXY
+HOST-SUFFIX,tokenpocket.pro,PROXY
+HOST-SUFFIX,tronlink.org,PROXY
+HOST-SUFFIX,hbwalletapi.net,PROXY
+HOST-SUFFIX,quickwallet.io,PROXY
+HOST-SUFFIX,metamask.io,PROXY
 
 # Miner
-HOST-SUFFIX,unmineable.com,Cryptocurrency
-HOST-SUFFIX,unminable.com,Cryptocurrency
+HOST-SUFFIX,unmineable.com,PROXY
+HOST-SUFFIX,unminable.com,PROXY
 
 # Chain
-HOST-SUFFIX,hecochain.com,Cryptocurrency
-HOST-SUFFIX,tronalliance.com,Cryptocurrency
-HOST-SUFFIX,tronalliance.cc,Cryptocurrency
-HOST-SUFFIX,trongrid.io,Cryptocurrency
-HOST-SUFFIX,infura.io,Cryptocurrency
-HOST-SUFFIX,binance.org,Cryptocurrency
-HOST-SUFFIX,http-mainnet-node.huobichain.com,Cryptocurrency
+HOST-SUFFIX,hecochain.com,PROXY
+HOST-SUFFIX,tronalliance.com,PROXY
+HOST-SUFFIX,tronalliance.cc,PROXY
+HOST-SUFFIX,trongrid.io,PROXY
+HOST-SUFFIX,infura.io,PROXY
+HOST-SUFFIX,binance.org,PROXY
+HOST-SUFFIX,http-mainnet-node.huobichain.com,PROXY
 
 # Dapp
-HOST-SUFFIX,tronscan.io,Cryptocurrency
-HOST-SUFFIX,tronscan.org,Cryptocurrency
-HOST-SUFFIX,hogt.com,Cryptocurrency
-HOST-SUFFIX,yfx.com,Cryptocurrency
-HOST-SUFFIX,quickchart.io,Cryptocurrency
-HOST-SUFFIX,ajax.cloudflare.com,Cryptocurrency
-HOST-SUFFIX,coingecko.com,Cryptocurrency
-HOST-SUFFIX,min-api.cryptocompare.com,Cryptocurrency
-HOST-SUFFIX,wink.org,Cryptocurrency
-HOST-SUFFIX,faviconkit.com,Cryptocurrency
-HOST-SUFFIX,sgem.io,Cryptocurrency
-HOST-SUFFIX,hubbleprotocol.io,Cryptocurrency
-HOST-SUFFIX,raydium.io,Cryptocurrency
-HOST-SUFFIX,layerswap.io,Cryptocurrency
-HOST-SUFFIX,saros.finance,Cryptocurrency
-HOST-SUFFIX,coin98.services,Cryptocurrency
-HOST-SUFFIX,onesignal.com,Cryptocurrency
-HOST-SUFFIX,autonavi.com,Cryptocurrency
-HOST-SUFFIX,genesysgo.net,Cryptocurrency
+HOST-SUFFIX,tronscan.io,PROXY
+HOST-SUFFIX,tronscan.org,PROXY
+HOST-SUFFIX,hogt.com,PROXY
+HOST-SUFFIX,yfx.com,PROXY
+HOST-SUFFIX,quickchart.io,PROXY
+HOST-SUFFIX,ajax.cloudflare.com,PROXY
+HOST-SUFFIX,coingecko.com,PROXY
+HOST-SUFFIX,min-api.cryptocompare.com,PROXY
+HOST-SUFFIX,wink.org,PROXY
+HOST-SUFFIX,faviconkit.com,PROXY
+HOST-SUFFIX,sgem.io,PROXY
+HOST-SUFFIX,hubbleprotocol.io,PROXY
+HOST-SUFFIX,raydium.io,PROXY
+HOST-SUFFIX,layerswap.io,PROXY
+HOST-SUFFIX,saros.finance,PROXY
+HOST-SUFFIX,coin98.services,PROXY
+HOST-SUFFIX,onesignal.com,PROXY
+HOST-SUFFIX,autonavi.com,PROXY
+HOST-SUFFIX,genesysgo.net,PROXY
 
 # Swap
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,just.network,Cryptocurrency
+HOST-SUFFIX,justswap.io,PROXY
+HOST-SUFFIX,just.network,PROXY
 
 # News
-HOST-SUFFIX,bishijie.com,Cryptocurrency
-HOST-SUFFIX,blocktempo.com,Cryptocurrency
-HOST-SUFFIX,chainnews.com,Cryptocurrency
-HOST-SUFFIX,theblockbeats.info,Cryptocurrency
+HOST-SUFFIX,bishijie.com,PROXY
+HOST-SUFFIX,blocktempo.com,PROXY
+HOST-SUFFIX,chainnews.com,PROXY
+HOST-SUFFIX,theblockbeats.info,PROXY
 
 # Info
-HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
-HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
-HOST-SUFFIX,aicoin.cn,Cryptocurrency
-HOST-SUFFIX,bqiapp.com,Cryptocurrency
-HOST-SUFFIX,bqrank.net,Cryptocurrency
-HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
-HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,coinmarketcap.com,PROXY
+HOST-SUFFIX,feixiaoquan.com,PROXY
+HOST-SUFFIX,aicoin.cn,PROXY
+HOST-SUFFIX,bqiapp.com,PROXY
+HOST-SUFFIX,bqrank.net,PROXY
+HOST-SUFFIX,chainfeeds.xyz,PROXY
+HOST-SUFFIX,aicoin.com,PROXY
 
 #NFT
-HOST-SUFFIX,solsea.io,Cryptocurrency
-
+HOST-SUFFIX,solsea.io,PROXY
+HOST-SUFFIX,opensea.io,PROXY
 
 # Swap
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,just.network,Cryptocurrency
+HOST-SUFFIX,justswap.io,PROXY
+HOST-SUFFIX,just.network,PROXY
 
 # News
-HOST-SUFFIX,bishijie.com,Cryptocurrency
-HOST-SUFFIX,blocktempo.com,Cryptocurrency
-HOST-SUFFIX,chainnews.com,Cryptocurrency
-HOST-SUFFIX,theblockbeats.info,Cryptocurrency
+HOST-SUFFIX,bishijie.com,PROXY
+HOST-SUFFIX,blocktempo.com,PROXY
+HOST-SUFFIX,chainnews.com,PROXY
+HOST-SUFFIX,theblockbeats.info,PROXY
 
 # Info
-HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
-HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
-HOST-SUFFIX,aicoin.cn,Cryptocurrency
-HOST-SUFFIX,bqiapp.com,Cryptocurrency
-HOST-SUFFIX,bqrank.net,Cryptocurrency
-HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
-HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,coinmarketcap.com,PROXY
+HOST-SUFFIX,feixiaoquan.com,PROXY
+HOST-SUFFIX,aicoin.cn,PROXY
+HOST-SUFFIX,bqiapp.com,PROXY
+HOST-SUFFIX,bqrank.net,PROXY
+HOST-SUFFIX,chainfeeds.xyz,PROXY
+HOST-SUFFIX,aicoin.com,PROXY
 
 #NFT
-HOST-SUFFIX,solsea.io,Cryptocurrency
-
-
-# Swap
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,just.network,Cryptocurrency
-
-# News
-HOST-SUFFIX,bishijie.com,Cryptocurrency
-HOST-SUFFIX,blocktempo.com,Cryptocurrency
-HOST-SUFFIX,chainnews.com,Cryptocurrency
-HOST-SUFFIX,theblockbeats.info,Cryptocurrency
-
-# Info
-HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
-HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
-HOST-SUFFIX,aicoin.cn,Cryptocurrency
-HOST-SUFFIX,bqiapp.com,Cryptocurrency
-HOST-SUFFIX,bqrank.net,Cryptocurrency
-HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
-HOST-SUFFIX,aicoin.com,Cryptocurrency
-
-#NFT
-HOST-SUFFIX,solsea.io,Cryptocurrency
+HOST-SUFFIX,solsea.io,PROXY
 
 
 # Swap
-HOST-SUFFIX,justswap.io,Cryptocurrency
-HOST-SUFFIX,just.network,Cryptocurrency
+HOST-SUFFIX,justswap.io,PROXY
+HOST-SUFFIX,just.network,PROXY
 
 # News
-HOST-SUFFIX,bishijie.com,Cryptocurrency
-HOST-SUFFIX,blocktempo.com,Cryptocurrency
-HOST-SUFFIX,chainnews.com,Cryptocurrency
-HOST-SUFFIX,theblockbeats.info,Cryptocurrency
+HOST-SUFFIX,bishijie.com,PROXY
+HOST-SUFFIX,blocktempo.com,PROXY
+HOST-SUFFIX,chainnews.com,PROXY
+HOST-SUFFIX,theblockbeats.info,PROXY
 
 # Info
-HOST-SUFFIX,coinmarketcap.com,Cryptocurrency
-HOST-SUFFIX,feixiaoquan.com,Cryptocurrency
-HOST-SUFFIX,aicoin.cn,Cryptocurrency
-HOST-SUFFIX,bqiapp.com,Cryptocurrency
-HOST-SUFFIX,bqrank.net,Cryptocurrency
-HOST-SUFFIX,chainfeeds.xyz,Cryptocurrency
-HOST-SUFFIX,aicoin.com,Cryptocurrency
+HOST-SUFFIX,coinmarketcap.com,PROXY
+HOST-SUFFIX,feixiaoquan.com,PROXY
+HOST-SUFFIX,aicoin.cn,PROXY
+HOST-SUFFIX,bqiapp.com,PROXY
+HOST-SUFFIX,bqrank.net,PROXY
+HOST-SUFFIX,chainfeeds.xyz,PROXY
+HOST-SUFFIX,aicoin.com,PROXY
 
 #NFT
-HOST-SUFFIX,solsea.io,Cryptocurrency
+HOST-SUFFIX,solsea.io,PROXY
+
+
+# Swap
+HOST-SUFFIX,justswap.io,PROXY
+HOST-SUFFIX,just.network,PROXY
+
+# News
+HOST-SUFFIX,bishijie.com,PROXY
+HOST-SUFFIX,blocktempo.com,PROXY
+HOST-SUFFIX,chainnews.com,PROXY
+HOST-SUFFIX,theblockbeats.info,PROXY
+
+# Info
+HOST-SUFFIX,coinmarketcap.com,PROXY
+HOST-SUFFIX,feixiaoquan.com,PROXY
+HOST-SUFFIX,aicoin.cn,PROXY
+HOST-SUFFIX,bqiapp.com,PROXY
+HOST-SUFFIX,bqrank.net,PROXY
+HOST-SUFFIX,chainfeeds.xyz,PROXY
+HOST-SUFFIX,aicoin.com,PROXY
+
+#NFT
+HOST-SUFFIX,solsea.io,PROXY
 
