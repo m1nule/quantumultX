@@ -57,7 +57,8 @@ HOST-SUFFIX,depth.fi,Cryptocurrency
 HOST-SUFFIX,hswap.com,Cryptocurrency
 HOST-SUFFIX,coin.top,Cryptocurrency
 HOST-SUFFIX,westarter.org,Cryptocurrency
-HOST-SUFFIX,aave.com
+HOST-SUFFIX,aave.com,Cryptocurrency
+
 # Wallet
 HOST-SUFFIX,hbwallet.net,Cryptocurrency
 HOST-SUFFIX,mytokenpocket.vip,Cryptocurrency
